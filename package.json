@@ -1,0 +1,23 @@
+{
+  "name": "commit-helper",
+  "version": "1.0.0",
+  "description": "Propose un message de commit propre à partir de tes fichiers modifiés.",
+  "type": "module",
+  "bin": {
+    "commit-helper": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "author": "Varhex by Ȥrk Team (https://varhex.com)",
+  "repository": "github:zrk-lol/commit-helper",
+  "keywords": [
+    "cli",
+    "varhex",
+    "zero-dependency"
+  ]
+}
